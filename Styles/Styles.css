@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family:'Courier New', Courier, monospace;
+}
+.flex-container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.Card {
+    width: 80%;
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.Header {
+    background-color: #23474d;
+    height: 100px;
+    margin-bottom: 100px;
+}
+.card-body {
+    padding: 15px;
+}
+.profile {
+    height: 160px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.Map {
+    height: 15px;
+}
+.Settings{
+    height: 15px;
+}
